@@ -1,4 +1,2 @@
-pr 1
-pr 2
-pr 3
-pr4
+Here we are going to develop task allocation project
+
