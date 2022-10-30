@@ -4,3 +4,6 @@ each role has different tasks
 supervisor can allocate the tasks
 agent can complete the tasks
 manager can create teams and each team has different responsibilities
+
+Microservice project
+serveices: Authentication
