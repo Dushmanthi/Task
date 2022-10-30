@@ -6,4 +6,10 @@ agent can complete the tasks
 manager can create teams and each team has different responsibilities
 
 Microservice project
-serveices: Authentication
+serveices: 
+# Authentication
+# Task Allocation
+# Database
+#Members 
+
+
