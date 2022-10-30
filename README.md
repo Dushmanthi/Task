@@ -5,11 +5,21 @@ supervisor can allocate the tasks
 agent can complete the tasks
 manager can create teams and each team has different responsibilities
 
-Microservice project
+# Microservice project
+
 serveices: 
 # Authentication
 # Task Allocation
 # Database
-#Members 
+# Members 
+
+Technology
+Spring boot
+
+Zuul api gateway
+Discovery service
+MVC design pattern
+
+
 
 
